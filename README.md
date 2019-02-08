@@ -2,7 +2,7 @@
 注册页面  
 https://wss-ttt.github.io/loginRegister/dist/#/register  
 登录页面  
-https://wss-ttt.github.io/loginRegister/dist/#/
+https://wss-ttt.github.io/loginRegister/dist/#/login  
 所使用的技术:  
 1 vue  
 2 vuex  
