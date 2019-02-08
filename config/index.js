@@ -43,7 +43,8 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/',
+    // assetsPublicPath: '/',  // 在斜杠前面添加一个 .
+    assetsPublicPath: './',   
 
     /**
      * Source Maps
