@@ -1,21 +1,10 @@
-# login_register
-
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+在线预览效果  
+注册页面  
+https://wss-ttt.github.io/loginRegister/dist/#/register  
+登录页面  
+https://wss-ttt.github.io/loginRegister/dist/#/login  
+所使用的技术:  
+1 vue  
+2 vuex  
+3 element-ui中的表单校验  
+4 localStorage和sessionStorage 本地存储  
